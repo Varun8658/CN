@@ -37,19 +37,19 @@ PAN(Personal Area Network)
 MAN(Metropolitan Area Network)
 WAN(Wide Area Network)
 
-Local Area Network
+1)Local Area Network
 A computer network spanned inside a building and operated under single administrative system is generally termed as Local Area Network (LAN). Usually,LAN covers an organization’ offices, schools, colleges or universities. Number of systems connected in LAN may vary from as least as two to as much as 16 million.
 
 LAN provides a useful way of sharing the resources between end users.The resources such as printers, file servers, scanners, and internet are easily sharable among computers.
 
-Local Area Network
-Characteristics of LAN
+
+Characteristics of LAN:-
 Here are the important characteristics of a LAN network:
 
 It is a private network, so an outside regulatory body never controls it.
 LAN operates at a relatively higher speed compared to other WAN systems.
 There are various kinds of media access control methods like token ring and ethernet.
-Advantages of LAN
+Advantages of LAN:-
 Here are the pros/benefits of LAN:
 
 Computer resources like hard-disks, DVD-ROM, and printers can share local area networks. This significantly reduces the cost of hardware purchases.
@@ -58,7 +58,7 @@ Data of all network users can be stored on a single hard disk of the server comp
 You can easily transfer data and messages over networked computers.
 It will be easy to manage data at only one place, which makes data more secure.
 Local Area Network offers the facility to share a single internet connection among all the LAN users.
-Disadvantages of LAN
+Disadvantages of LAN:-
 Here are the cons/drawbacks of LAN:
 
 LAN will indeed save cost because of shared computer resources, but the initial cost of installing Local Area Networks is quite high.
@@ -66,13 +66,13 @@ The LAN admin can check personal data files of every LAN user, so it does not of
 Unauthorized users can access critical data of an organization in case LAN admin is not able to secure centralized data repository.
 Local Area Network requires a constant LAN administration as there are issues related to software setup and hardware failures
 
-Personal Area Network
+Personal Area Network:-
 A Personal Area Network (PAN) is smallest network which is very personal to a user. This may include Bluetooth enabled devices or infra-red enabled devices. PAN has connectivity range up to 10 meters. PAN may include wireless computer keyboard and mouse, Bluetooth enabled headphones, wireless printers and TV remotes.
 
 Personal Area Network
 For example, Piconet is Bluetooth-enabled Personal Area Network which may contain up to 8 devices connected together in a master-slave fashion.
 
-Advantages of PAN
+Advantages of PAN:-
 Here are the important pros/benefits of PAN network:
 
 PAN networks are relatively secure and safe
@@ -83,7 +83,7 @@ Here are the cons/drawbacks of using PAN network:
 
 It may establish a bad connection to other networks at the same radio bands.
 Distance limits.
-Metropolitan Area Network
+Metropolitan Area Network:-
 The Metropolitan Area Network (MAN) generally expands throughout a city such as cable TV network. It can be in the form of Ethernet,Token-ring, ATM, or Fiber Distributed Data Interface (FDDI).
 
 Metro Ethernet is a service which is provided by ISPs. This service enables its users to expand their Local Area Networks. For example, MAN can help an organization to connect all of its offices in a city.
@@ -113,7 +113,7 @@ In MAN network it is tough to make the system secure from hackers
 Wide Area Network
 As the name suggests,the Wide Area Network (WAN) covers a wide area which may span across provinces and even a whole country. Generally, telecommunication networks are Wide Area Network. These networks provide connectivity to MANs and LANs. Since they are equipped with very high speed backbone, WANs use very expensive network equipment.
 
-Wide Area Network
+Wide Area Network:-
 WAN may use advanced technologies such as Asynchronous Transfer Mode (ATM), Frame Relay, and Synchronous Optical Network (SONET). WAN may be managed by multiple administration.
 
 Characteristics of WAN
